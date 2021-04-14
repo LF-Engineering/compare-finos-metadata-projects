@@ -15,3 +15,6 @@ Then it removes comments, whitespace lines, sorts keys and finally creates a com
 # Usage (using GitLab repo):
 
 - You need to get a version for Gitlab and GitHub, save them as `projects_gitlab.json` and `projects_gthub.json`.
+- Run: `./projects_ghgl.sh`.
+- See: `projects.json.diff`.
+
